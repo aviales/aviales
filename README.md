@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Ruby pn Rails](https://img.shields.io/badge/Ruby_on_Rails-0078D7?style=flat-square&logo=Ruby-on-Rails-Edge&logoColor=white)
-- 💻Skills: Html, Css, Javascript, Ruby, Ruby On Rails,Jquery for the moment.
+
 
 <p align="left">
 <h2  align="left">Connect with me:</h3>
