@@ -1,6 +1,6 @@
 <h1 align="center">Hello friend 😁 , my name is Alonso, I am a Full stack RoR programmer. </h1>
 
-<h2 align="center">I'm from Costa Rica, I work to find solutions to your problems 😎</h3>
+<h2 align="center">I'm from Costa Rica, I work to find solutions to your problems 😎</h2>
 
 ### Talking about Personal Stuffs:
 
@@ -18,7 +18,8 @@
 
 
 <p align="left">
-<h2  align="left">Connect with me:</h3>
+<h2  align="left">Connect with me:</h2>
+<h2  align="left">alonsoviales.com</h3>
 <a href="https://www.linkedin.com/in/alonso-viales-arrieta-524183201/">
   <img alt="Alonso Viales LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
