@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/alonso-viales-arrieta-524183201/">
   <img alt="Alonso Viales LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://aviales.github.io/aviales_briefcase">
+<a href="https://alonsoviales.com/">
 <img alt="Alonso Viales briefcase" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </p>
