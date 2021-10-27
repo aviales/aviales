@@ -24,7 +24,7 @@
   <img alt="Alonso Viales LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://alonsoviales.com/">
-<img alt="Alonso Viales briefcase" width="50px" style="background-color:white;""src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img alt="Alonso Viales briefcase" width="50px""src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </p>
 <p align="center">
