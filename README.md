@@ -31,7 +31,8 @@
 
 
 <h2  align="left">Connect with me:</h2>
-<a href=”https://www.alonsoviales.com” target="_blank" hreflang=”alonsoviales.com” ><h2  align="left">alonsoviales.com</h2></a>
+
+To my personal website[alonsoviales.com](https://alonsoviales.com)
 
 <a href="https://www.linkedin.com/in/alonso-viales-arrieta-524183201/">
   <img alt="Alonso Viales LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
